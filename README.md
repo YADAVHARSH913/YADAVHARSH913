@@ -1,13 +1,16 @@
 <h1 align="center">👋 Hi, I'm Harsh Yadav</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN Enthusiast | CS Student</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things">
+</p>
+
 ---
 
 ## 🌟 About Me  
 - 🎓 Computer Science Student  
 - 💻 Passionate about **Web Development & Databases**  
-- 🚀 Currently working on: [URL-Shorty](https://github.com/YADAVHARSH913/URL-Shorty)  
-- 🌱 Learning **Next.js & TypeScript**  
+- 🚀 Currently working on: [AI-Healthcare](https://github.com/YADAVHARSH913/AI-Healthcare)  
 - ⚡ Fun fact: I debug more than I code 😅  
 
 ---
@@ -26,7 +29,6 @@
 
 **Database:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) 
@@ -37,29 +39,47 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YADAVHARSH913&show_icons=true&theme=radical" height="150"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YADAVHARSH913&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YADAVHARSH913&show_icons=true&theme=radical" height="160"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YADAVHARSH913&layout=compact&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YADAVHARSH913&theme=radical" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=YADAVHARSH913&theme=radical&row=1&column=6" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=YADAVHARSH913&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YADAVHARSH913&theme=radical&row=1&column=6" height="120"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-- ✂️ [URL-Shorty](https://github.com/YADAVHARSH913/URL-Shorty) – A MERN stack URL shortener  
-- 📚 *(Add your next project here)*  
+### 🔹 [NTPC-Complaint-Portal](https://github.com/YADAVHARSH913/NTPC-Complaint-Portal)  
+Employer Login & Registration System with **MERN stack** and Admin approval workflow.  
+
+### 🔹 [Inventory-IQ](https://github.com/YADAVHARSH913/Inventory-IQ)  
+A **web-based Inventory Management System** for real-time stock tracking, billing & customer management.  
+
+### 🔹 [AI-Healthcare](https://github.com/YADAVHARSH913/AI-Healthcare) *(Currently Working 🚧)*  
+Smart Healthcare System with online OPD booking, hospital bed management, and medical inventory tracking.  
+
+### 🔹 [Portfolio](https://github.com/YADAVHARSH913/Portfolio)  
+My professional **portfolio website** built with HTML, CSS, and JavaScript.  
+
+### 🔹 [Unit-Conversion-Basic-C-programming](https://github.com/YADAVHARSH913/Unit-Conversion-Basic-C-programming-)  
+A **C language Unit Converter** for quick and accurate conversions between measurement units.  
+
+### 🔹 [URL-Shorty](https://github.com/YADAVHARSH913/URL-Shorty)  
+A **MERN stack URL shortener app** with authentication, dashboard, click tracking & dark/light mode.  
 
 ---
 
 ## 🌐 Connect With Me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YADAVHARSH913)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/yadavharsh913/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)]([your-portfolio-link](https://portfolio-hksf.onrender.com/))  
 
 ---
 
