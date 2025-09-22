@@ -77,9 +77,9 @@ A **MERN stack URL shortener app** with authentication, dashboard, click trackin
 
 ## 🌐 Connect With Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YADAVHARSH913)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/yadavharsh913/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)]([your-portfolio-link](https://portfolio-hksf.onrender.com/))  
+[![GitHub]](https://github.com/YADAVHARSH913)  
+[![LinkedIn]](https://www.linkedin.com/in/yadavharsh913/)  
+[![Portfolio]](https://portfolio-hksf.onrender.com/)  
 
 ---
 
